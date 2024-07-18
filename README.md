@@ -1,9 +1,9 @@
 # Sales_Dashboard_using_Excel
 
-## Problem Statement
+## Problem Statement:
 The management of Vrinda Store is looking to gain insights into their sales performance across different months, channels, and categories. They need to understand the distribution of orders and sales, customer demographics, and regional sales performance to make data-driven decisions. This requires a comprehensive analysis of sales data, visualized in a dashboard for easy interpretation and actionable insights.
 
-## Objective
+## Objective:
 The primary objective is to create an interactive sales dashboard that provides a detailed analysis of the store's sales data. This dashboard will enable the management to:
 - Monitor monthly sales performance.
 - Identify top-performing sales channels and categories.
@@ -11,7 +11,7 @@ The primary objective is to create an interactive sales dashboard that provides 
 - Understand regional sales distribution.
 - Track order statuses, including delivered, cancelled, refunded, and returned orders.
 
-## Detailed Description
+## Detailed Description:
 The sales dashboard is designed to offer a holistic view of Vrinda Store's sales data with the following components:
 
 1. Order vs Sales (Top Left Chart)
