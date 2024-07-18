@@ -41,12 +41,3 @@ The sales dashboard is designed to offer a holistic view of Vrinda Store's sales
 7. Interactive Filters (Right Side Panels)
    - Description: Dropdown filters for months, sales channels, and product categories.
    - Insight: Allows users to filter the data dynamically to drill down into specific time periods, channels, and product categories for more detailed analysis.
-
-### Usage
-The sales dashboard is intended for use by the store's management team to:
-- Track and compare sales performance over different months.
-- Identify key customer demographics and their purchasing patterns.
-- Evaluate the performance of different sales channels and product categories.
-- Monitor order statuses to improve logistics and customer service.
-- Make strategic decisions based on data-driven insights to boost sales and improve customer satisfaction.
-
